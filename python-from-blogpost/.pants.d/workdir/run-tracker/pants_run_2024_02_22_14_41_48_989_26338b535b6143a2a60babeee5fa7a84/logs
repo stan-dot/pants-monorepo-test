@@ -1,0 +1,14 @@
+14:41:49.01 [INFO] notify invalidation: cleared 1 and dirtied 42 nodes for: {"", ".tmpCFzgIB.hardlink_canary"}
+14:41:49.01 [INFO] notify invalidation: cleared 1 and dirtied 42 nodes for: {".tmpCFzgIB.hardlink_canary", ""}
+14:41:49.01 [INFO] notify invalidation: cleared 1 and dirtied 40 nodes for: {"python-from-blogpost", "python-from-blogpost/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"python-from-blogpost/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"python-from-blogpost/BUILD", "python-from-blogpost"}
+14:41:49.01 [INFO] notify invalidation: cleared 1 and dirtied 35 nodes for: {"python-from-blogpost/chatapp", "python-from-blogpost/chatapp/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"python-from-blogpost/chatapp/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"python-from-blogpost/chatapp", "python-from-blogpost/chatapp/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 1 and dirtied 24 nodes for: {"python-from-blogpost/chatapp/profanitymasker", "python-from-blogpost/chatapp/profanitymasker/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"python-from-blogpost/chatapp/profanitymasker/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"python-from-blogpost/chatapp/profanitymasker", "python-from-blogpost/chatapp/profanitymasker/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 1 and dirtied 24 nodes for: {"python-from-blogpost/chatapp/contentbuilder", "python-from-blogpost/chatapp/contentbuilder/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"python-from-blogpost/chatapp/contentbuilder/BUILD"}
+14:41:49.01 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"python-from-blogpost/chatapp/contentbuilder", "python-from-blogpost/chatapp/contentbuilder/BUILD"}

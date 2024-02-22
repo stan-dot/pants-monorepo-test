@@ -1,5 +1,7 @@
 # pants-monorepo-test
 
+https://earthly.dev/blog/pants-python-monorepo/#introducing-pants
+
 ## trying pants
 
 - [ ] bazel or pants monorepo build - try in devcontainers, as a monorepo already with the services. use some existing monorepo
@@ -18,14 +20,18 @@ good links:
 bazel deployment
 <https://blog.aspect.dev/estimating-bazel-cicd>
 
-## monorepos - make an ADR
 
-<https://news.ycombinator.com/item?id=30438579>
+## bazel
 
-<https://thenable.io/monorepos-will-ruin-your-life-but-theyre-worth-it>
 
-<https://news.ycombinator.com/item?id=28384169>
+## please
+https://github.com/thought-machine/please
 
-<https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b>
 
-<https://www.reddit.com/r/reactjs/comments/14m79tw/monorepo_or_not/>
+
+## earthly
+https://github.com/earthly/earthly
+open source but not mature
+
+
+
