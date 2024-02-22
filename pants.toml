@@ -1,20 +1,7 @@
 [GLOBAL]
 pants_version = "2.19.0"
+
 backend_packages = [
-    "pants.backend.python"
-]
-
-[anonymous-telemetry]
-enabled = false
-
-[source]
-root_patterns = ["/python-from-blogpost"]
-
-[python]
-interpreter_constraints = [">=3.9.*"]
-
-[python-bootstrap]
-search_path = [
-    "<PYENV>",
-    "/usr/local/bin",
+  "pants.backend.python",
+  "pants.backend.python.lint.black",
 ]

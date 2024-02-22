@@ -1,7 +1,0 @@
-14:48:36.26 [31m[ERROR][0m 1 Exception encountered:
-
-Engine traceback:
-  in `tailor` goal
-
-SyntaxError: invalid syntax (BUILD, line 1)
-
