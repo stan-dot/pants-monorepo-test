@@ -16,6 +16,10 @@ submodules added in 2016
 >   in `tailor` goal
 > SyntaxError: invalid syntax (BUILD, line 3)
 non-descriptive CLI error messages - a very bad sign
+>
+
+update: possibly the error was due to running in a devcontainer for alpine https://www.pantsbuild.org/2.18/docs/getting-started/prerequisites#linux
+which is not supported 
 
 ## bazel
 
